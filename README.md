@@ -38,7 +38,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 //Comentarios Junior
 
 ## Instalação e Run
-
+-Clone o repositorio com o comando git clone https://github.com/juniorAntunes910/Prova-Next-Junior_Gabriel_Antunes_de_Souza-Correta.git
 -Utilize o npm install
 -Após isso entre na pasta /prova
 -Insira o comando:
