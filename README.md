@@ -47,12 +47,12 @@ npm run dev
 ```
 
 ## Testes Realizado
-1 - Run na aplicação, onde verifiquei se a aplicação demonstrou algum erro
-2 - Rotas corretas da aplicação, Verifiquei o roteamento dos links
-3 - Details dos cards - Verifiquei se todas as informações estava corretas no detalhamento do card
-4 - Acesso para todas as paginas (home, details, about) - Entrei em todas as paginas para verificar seus respectivos acessos
-5 - Teste na tela de loading 
-6 - Testa na tela de Erro 
+ - Run na aplicação, onde verifiquei se a aplicação demonstrou algum erro
+ - Rotas corretas da aplicação, Verifiquei o roteamento dos links
+ - Details dos cards - Verifiquei se todas as informações estava corretas no detalhamento do card
+ - Acesso para todas as paginas (home, details, about) - Entrei em todas as paginas para verificar seus respectivos acessos
+ - Teste na tela de loading 
+ - Testa na tela de Erro 
 ## Data 10/07/2026 10:42
 
 Obrigado por Ler o Readme.md
